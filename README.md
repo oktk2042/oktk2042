@@ -29,8 +29,8 @@ Currently, I'm focusing on stock price prediction using unstructured data and an
 <div align="center">
  
  <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,r,mysql,javascript&theme=dark" /><br> 
- <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,react,nodejs,flask,fastapi&theme=dark" /><br> 
- <img src="https://skillicons.dev/icons?i=git,github,aws,docker,raspberrypi,vscode,unity&theme=dark" /><br> 
+ <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,react,flask,fastapi,unity&theme=dark" /><br> 
+ <img src="https://skillicons.dev/icons?i=git,github,azure,aws,docker,raspberrypi,vscode&theme=dark" /><br> 
 
 </div>
 
@@ -38,8 +38,12 @@ Currently, I'm focusing on stock price prediction using unstructured data and an
 
 ## 💼 インターン / Internship Experience
 
-- 💻 富士通株式会社 / Fujitsu Ltd. (2024年9月～2025年2月 / Sep 2024 – Feb 2025)  
+- 💻 株式会社エムニ / Emuni Inc. (2025年4月～現在 / Apr 2025 – Present)
+  AI開発にAIエンジニアとして従事。
+- 💻 富士通株式会社 / Fujitsu Ltd. (2024年9月～2025年2月 / Sep 2024 – Feb 2025)
+  データサイエンティストとして従事。
 - 🏢 日立製作所 / Hitachi Ltd. (2024年8月～9月 / Aug – Sep 2024)
+  研究開発グループに従事。
 
 ---
 
