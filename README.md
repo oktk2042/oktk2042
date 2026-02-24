@@ -15,8 +15,8 @@ Currently, I'm focusing on stock price prediction using unstructured data and an
 ## 🔬 研究テーマ / Research Topics
 
 - 📈 修士研究 / Master's Research  
-  **「非構造化データとAttentionマップ解析を用いた解釈可能なTransformer株価予測モデル」**  
-  **"Interpretable Stock Price Forecasting using Transformer and Attention Map Analysis with Unstructured Data"**
+  **「大規模言語モデルによる市場感情とテクニカル指標を統合したマルチモーダル Transformerの構築と評価」**  
+  **"Multi-Modal Gated Transformer: Integrating LLM-Based Market Sentiment and Technical Indicators for Stock Price Prediction"**
 
 - 📊 卒業研究 / Undergraduate Thesis  
   **「実世界データにおけるTransformerを用いた時系列予測の有効性」**  
