@@ -38,7 +38,7 @@ Currently, I'm focusing on stock price prediction using unstructured data and an
 
 ## 💼 インターン / Internship Experience
 
-- 💻 株式会社エムニ / Emuni Inc. (2025年4月～現在 / Apr 2025 – Present)
+- 💻 株式会社エムニ / Emuni Inc. (2025年4月～2026年3月 / Apr 2025 – Mar 2026)
   AI開発にAIエンジニアとして従事。
 - 💻 富士通株式会社 / Fujitsu Ltd. (2024年9月～2025年2月 / Sep 2024 – Feb 2025)
   データサイエンティストとして従事。
