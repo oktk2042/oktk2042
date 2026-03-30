@@ -2,13 +2,15 @@
 
 ## 🧑‍💻 大木 雅斗（Masato Oki）
 
-富山大学大学院 理工学研究科 数理情報学プログラム 修士課程の大学院生です。  
+富士通株式会社でソフトウェア開発エンジニアとして勤務しています。  
+富山大学大学院 理工学研究科 数理情報学プログラム 修士課程修了。  
 AI・データサイエンス・マルチエージェント・時系列予測・自然言語処理に関心があります。  
-特に、非構造化データを用いた株価予測や、Transformerの解釈可能性向上に取り組んでいます。
+特に、非構造化データを用いた株価予測や、Transformerの解釈可能性向上に取り組んできました。
 
-I'm a Master's student at the University of Toyama, majoring in Mathematical and Information Sciences.  
+I'm a Software Engineer at Fujitsu Limited.  
+I hold a Master's degree from the University of Toyama, majoring in Mathematical and Information Sciences.  
 My interests lie in **AI, data science, multi-agent systems, time-series forecasting**, and **natural language processing**.  
-Currently, I'm focusing on stock price prediction using unstructured data and analyzing Transformer models for interpretability.
+I've been focusing on stock price prediction using unstructured data and analyzing Transformer models for interpretability.
 
 ---
 
@@ -36,7 +38,11 @@ Currently, I'm focusing on stock price prediction using unstructured data and an
 
 ---
 
-## 💼 インターン / Internship Experience
+## 💼 職歴・インターン / Work & Internship Experience
+
+- 🏢 富士通株式会社 / Fujitsu Ltd. (2026年4月～ / Apr 2026 –)
+
+  ソフトウェア開発エンジニアとして勤務。
 
 - 💻 株式会社エムニ / Emuni Inc. (2025年4月～2026年3月 / Apr 2025 – Mar 2026)
 
@@ -78,7 +84,7 @@ Currently, I'm focusing on stock price prediction using unstructured data and an
 - 🎨 趣味: アニメ・漫画・ゲームが大好きです！  
   Hobbies: I love anime, manga, and games!  
 - 📚 所属: 大学のアニメ漫画サークルに所属し、企画・広報・組織運営に携わってきました。  
-  I’ve also been an active member of my university's anime & manga club, contributing to event planning, PR, and organizational reforms.  
+  I've also been an active member of my university's anime & manga club, contributing to event planning, PR, and organizational reforms.  
   部誌販売や公認化、SNS戦略を通じて部員を大きく拡大しました。
 
 ---
